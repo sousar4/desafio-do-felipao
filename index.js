@@ -1,4 +1,3 @@
-// Importa a biblioteca necessária para ler dados no terminal do VS Code
 const prompt = require('prompt-sync')();
 //- Variáveis
 let idade = prompt('Bem-vindo ao Desafio do Felipão! Para iniciar, digite a sua idade: ');
